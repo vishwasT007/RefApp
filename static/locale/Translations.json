@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "default": "en-US",
+    "names": {
+      "en": "English"
+    },
+    "map": {
+      "en-US": "en"
+    }
+  },
+  "en-US" : {
+    "no_content_found_string": "No content found!",
+    "maybe_something_else_definition": "Maybe something else?",
+    "no_results": "No results for",
+    "what_to_watch": "What do you want to watch?",
+    "foot_copyright_def": "© 2024 RDK  All rights reserved.",
+    "watch_now_text": "Watch Now",
+    "view_more": "View More",
+    "exit_alert": "Are you sure you want to exit the app now?",
+    "alert_yes": "Yes",
+    "alert_no": "No",
+    "tv_alert": "Alert!",
+    "search_results_part_1": "Found",
+    "search_results_part_2": "results for",
+    "back_button_text" : "Back",
+    "splash_footer": "* The information, images and content in this app are for testing purposes only"
+  }
+}

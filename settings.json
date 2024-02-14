@@ -1,0 +1,33 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": false
+    },
+    "debug": true,
+    "keys": {
+      "49": "Play",
+      "50": "Pause",
+      "51": "PlayPause",
+      "52": "Stop",
+      "53": "Rewind",
+      "54": "Forward"
+    }
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": false,
+    "inspector": true,
+    "router": {
+      "backtrack": true,
+      "gcOnUnload": true,
+      "lazyCreate": true,
+      "lazyDestroy": true,
+      "reuseInstance": true,
+      "destroyOnHistoryBack": false,
+      "numberNavigation": false,
+      "logRoute": true
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "OpenSource",
+  "identifier": "com.tv2z.opensource",
+  "version": "1.0.0",
+  "icon": "./static/images/favicon.png",
+  "description": "Metro Lightning Application",
+  "author": "Vishwas Tarebde"
+}
